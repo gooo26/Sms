@@ -1,0 +1,405 @@
+[
+  {
+    "key": "movies",
+    "title": "Movie's & Shows",
+    "icon": "🎬",
+    "items": [
+      {
+        "name": "Prmovies",
+        "desc": "live chrome",
+        "link": "https://share.google/tIuPJDBD8IzxtjLsL"
+      },
+      {
+        "name": "moviesbazar",
+        "desc": "live chrome",
+        "link": "https://share.google/O46XrDtQYyEB5pe6A"
+      },
+      {
+        "name": "netnaija",
+        "desc": "live -",
+        "link": "https://share.google/MJGSvvFHKtYEa7XAX"
+      },
+      {
+        "name": "Movierulz",
+        "desc": "live chrome",
+        "link": "https://share.google/qA2EMSGRhfJzVb3r2"
+      },
+      {
+        "name": "Hindilinks4u",
+        "desc": "live chrome",
+        "link": "https://share.google/gMSmEaM3l63P3B0jg"
+      },
+      {
+        "name": "Kmmovies",
+        "desc": "live chrome",
+        "link": "https://share.google/JOzTLHqaiDflWKAf6"
+      },
+      {
+        "name": "Movies4u",
+        "desc": "live chrome",
+        "link": "https://share.google/3QbFldeecQaunCrLa"
+      },
+      {
+        "name": "Desicinemas",
+        "desc": "live chrome",
+        "link": "https://share.google/e9DBGshldfSHQVeHS"
+      },
+      {
+        "name": "Bollyflix",
+        "desc": "live chrome",
+        "link": "https://share.google/kxfuMhCdpDRYgiieM"
+      },
+      {
+        "name": "Moviewala",
+        "desc": "live chrome",
+        "link": "https://share.google/kllasRWlkkCTThkZc"
+      },
+      {
+        "name": "Vegamovies",
+        "desc": "live chrome",
+        "link": "https://share.google/dWaJjqRpiiWVPTrwF"
+      },
+      {
+        "name": "Hdhub4u",
+        "desc": "live chrome",
+        "link": "https://share.google/XO2ZGL0gKP2sroB0p"
+      },
+      {
+        "name": "Multimovies",
+        "desc": "live chrome",
+        "link": "https://share.google/V1TLtZuUloAj9faF1"
+      },
+      {
+        "name": "Movies Mod",
+        "desc": "live chrome",
+        "link": "https://share.google/bthxb6qjBPDtD2Abc"
+      },
+      {
+        "name": "Worldfree4u",
+        "desc": "live chrome",
+        "link": "https://share.google/cvVYxcfqZzeJcOlYQ"
+      },
+      {
+        "name": "Hindilinks4u",
+        "desc": "live -",
+        "link": "https://share.google/0HgsyB72wP3cLLyQz"
+      },
+      {
+        "name": "Thenextplanet",
+        "desc": "live chrome",
+        "link": "https://share.google/OffZqZZSDJxrDqOUI"
+      },
+      {
+        "name": "Tamilblasters",
+        "desc": "live chrome",
+        "link": "https://share.google/azDOGSM2mqYW3q6jp"
+      },
+      {
+        "name": "Fitnur",
+        "desc": "arbic",
+        "link": "https://share.google/N2oHciW2c50p1MJaY"
+      },
+      {
+        "name": "Yupflix",
+        "desc": "live chrome",
+        "link": "https://share.google/MXKWjjEgvypPPnbOh"
+      },
+      {
+        "name": "Cinephile",
+        "desc": "live chrome",
+        "link": "https://share.google/Km0SLGILzOQpgSIYC"
+      }
+    ]
+  },
+  {
+    "key": "anime",
+    "title": "Anime",
+    "icon": "🍥",
+    "items": [
+      {
+        "name": "Kartoons",
+        "desc": "Trusted",
+        "link": "kartoons.to"
+      },
+      {
+        "name": "Ag48anime",
+        "desc": "Trusted",
+        "link": "https://share.google/vQHAglRisQzNF5uxt"
+      },
+      {
+        "name": "ANIMEWORLD",
+        "desc": "Trusted",
+        "link": "https://share.google/GpbNXyLLyg6QvH6c2"
+      },
+      {
+        "name": "Animejoker",
+        "desc": "",
+        "link": "animejoker.com"
+      },
+      {
+        "name": "Blakite anime",
+        "desc": "",
+        "link": "https://www.blakiteanime.in/?m=1"
+      },
+      {
+        "name": "Anime4u",
+        "desc": "",
+        "link": "https://anime4u.site"
+      },
+      {
+        "name": "AnimeDrive",
+        "desc": "",
+        "link": "https://animedrive.cc"
+      },
+      {
+        "name": "Toonworld4all",
+        "desc": "",
+        "link": "https://toonworld4all.me"
+      },
+      {
+        "name": "Desidubanime",
+        "desc": "New",
+        "link": "https://subdubanime.site"
+      },
+      {
+        "name": "Animelok",
+        "desc": "",
+        "link": "https://animelok.cc"
+      },
+      {
+        "name": "Anime Salt",
+        "desc": "",
+        "link": "https://animesalt.cx"
+      },
+      {
+        "name": "animepahe",
+        "desc": "",
+        "link": "https://animepahe.pw"
+      },
+      {
+        "name": "Animesogo",
+        "desc": "",
+        "link": "https://animesogo.to"
+      },
+      {
+        "name": "Rare Animes India",
+        "desc": "",
+        "link": "https://www.rareanimes.mov/"
+      }
+    ]
+  },
+  {
+    "key": "manga",
+    "title": "Manga",
+    "icon": "📚",
+    "items": [
+      {
+        "name": "Manganami",
+        "desc": "new",
+        "link": "manganami.com"
+      }
+    ]
+  },
+  {
+    "key": "live",
+    "title": "Live Tv & Sports",
+    "icon": "📡",
+    "items": []
+  },
+  {
+    "key": "paid",
+    "title": "Paid",
+    "icon": "💎",
+    "items": [
+      {
+        "name": "Disney+hotstar",
+        "desc": "",
+        "link": "https://www.hotstar.com/in"
+      },
+      {
+        "name": "YUPPTV",
+        "desc": "",
+        "link": "https://yupptv.com"
+      },
+      {
+        "name": "Shudder",
+        "desc": "",
+        "link": "https://watch.shudder.com"
+      },
+      {
+        "name": "Netflix",
+        "desc": "",
+        "link": "https://netflix.com"
+      },
+      {
+        "name": "Rakuten Viki",
+        "desc": "",
+        "link": "https://viki.com"
+      },
+      {
+        "name": "Apple tv +",
+        "desc": "",
+        "link": "tv.apple.com"
+      },
+      {
+        "name": "Primevideo",
+        "desc": "",
+        "link": "https://primevideo.com"
+      },
+      {
+        "name": "Paramount+",
+        "desc": "",
+        "link": "https://share.google/mKA6prrKu9EH1TXxe"
+      },
+      {
+        "name": "Crunchyroll",
+        "desc": "",
+        "link": "sso.crunchyroll.com"
+      },
+      {
+        "name": "MGM+",
+        "desc": "",
+        "link": "https://mgmplus.com"
+      },
+      {
+        "name": "peacock",
+        "desc": "",
+        "link": "https://share.google/CukOXaQYUUxcNPtyx"
+      },
+      {
+        "name": "AMC+",
+        "desc": "",
+        "link": "https://amcplus.com"
+      },
+      {
+        "name": "JioHotstar",
+        "desc": "",
+        "link": "https://www.jiohotstar.com"
+      }
+    ]
+  },
+  {
+    "key": "apps",
+    "title": "Apps",
+    "icon": "📱",
+    "items": [
+      {
+        "name": "MovieBox",
+        "desc": ".apk",
+        "link": "https://movieboxapks.app/"
+      },
+      {
+        "name": "NETMIRROR",
+        "desc": ".apk",
+        "link": "https://netmirror.plus/"
+      },
+      {
+        "name": "PikaShow",
+        "desc": ".apk",
+        "link": "https://pikashowsapks.pro/"
+      },
+      {
+        "name": "Youcine",
+        "desc": ".apk",
+        "link": "https://www.youcine.net/"
+      },
+      {
+        "name": "Playtorrio",
+        "desc": ".apk",
+        "link": "https://playtorrio.org/"
+      },
+      {
+        "name": "UVOtv",
+        "desc": ".apk",
+        "link": "https://uvotv.com/geoblock"
+      },
+      {
+        "name": "AniVortex",
+        "desc": ".apk",
+        "link": "https://anivortex.in/"
+      },
+      {
+        "name": "HDO Box",
+        "desc": ".apk",
+        "link": "https://hdoboxapkpro.com/"
+      },
+      {
+        "name": "BeeTv",
+        "desc": ".apk",
+        "link": "https://beetvs.com.co/"
+      },
+      {
+        "name": "PlayFy Tv",
+        "desc": ".apk",
+        "link": "https://playfy.net.in/"
+      },
+      {
+        "name": "PhotoCraft",
+        "desc": "photoshop",
+        "link": "https://getartcraft.com/apps/photocraft"
+      },
+      {
+        "name": "VectorCraft",
+        "desc": "Illustration",
+        "link": "https://getartcraft.com/apps/vectorcraft"
+      },
+      {
+        "name": "FilmCraft",
+        "desc": "Premiere Pro",
+        "link": "https://getartcraft.com/apps/filmcraft"
+      },
+      {
+        "name": "LightCraft",
+        "desc": "Lightroom",
+        "link": "https://getartcraft.com/apps/lightcraft"
+      },
+      {
+        "name": "PdfCraft",
+        "desc": "Acrobat Pro",
+        "link": "https://getartcraft.com/apps/pdfcraft"
+      },
+      {
+        "name": "EffectCraft",
+        "desc": "After Effects",
+        "link": "https://getartcraft.com/apps/effectcraft"
+      },
+      {
+        "name": "DesignCraft",
+        "desc": "InDesign",
+        "link": "https://getartcraft.com/apps/designcraft"
+      },
+      {
+        "name": "Bright Memory Infinite",
+        "desc": "game",
+        "link": "https://liteapks.com/download/bright-memory-infinite-587463"
+      },
+      {
+        "name": "Fightkaro",
+        "desc": "game",
+        "link": "https://fightkaro.com/"
+      }
+    ]
+  },
+  {
+    "key": "github",
+    "title": "GitHub",
+    "icon": "🐙",
+    "items": [
+      {
+        "name": "Html Anime",
+        "desc": "anime git",
+        "link": "https://github.com/blixvip/html-anime"
+      },
+      {
+        "name": "Ps5",
+        "desc": "ps5 git",
+        "link": "https://github.com/boykopovar/AnyPS5"
+      },
+      {
+        "name": "NectarLink",
+        "desc": "Android phone",
+        "link": "https://github.com/thtbee/nectarlink"
+      }
+    ]
+  }
+]
