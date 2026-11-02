@@ -387,6 +387,11 @@
         "name": "Fightkaro",
         "desc": "game",
         "link": "https://fightkaro.com/"
+      },
+      {
+        "name": "Nfsu",
+        "desc": "Game",
+        "link": "https://nfsu2.xyz/"
       }
     ]
   },
@@ -409,6 +414,16 @@
         "name": "NectarLink",
         "desc": "Android phone",
         "link": "https://github.com/thtbee/nectarlink"
+      },
+      {
+        "name": "Open Cut",
+        "desc": "Premiere Pro",
+        "link": "https://github.com/OpenCut-app/OpenCut"
+      },
+      {
+        "name": "DSH-GOD",
+        "desc": "Premiere Pro",
+        "link": "https://github.com/crackerghost/DSH-GOD"
       }
     ]
   }
