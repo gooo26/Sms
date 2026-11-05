@@ -392,6 +392,26 @@
         "name": "Nfsu",
         "desc": "Game",
         "link": "https://nfsu2.xyz/"
+      },
+      {
+        "name": "wordcraft",
+        "desc": "Offic Words",
+        "link": "https://getartcraft.com/apps/wordcraft"
+      },
+      {
+        "name": "gridcraft",
+        "desc": "Office  Excel",
+        "link": "https://getartcraft.com/apps/gridcraft"
+      },
+      {
+        "name": "deckcraft",
+        "desc": "Office PowerPoint",
+        "link": "https://getartcraft.com/apps/deckcraft"
+      },
+      {
+        "name": "SoundCraft",
+        "desc": "digital audio workstation (DAW)",
+        "link": "https://getartcraft.com/apps/soundcraft"
       }
     ]
   },
