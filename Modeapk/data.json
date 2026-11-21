@@ -412,6 +412,22 @@
         "name": "SoundCraft",
         "desc": "digital audio workstation (DAW)",
         "link": "https://getartcraft.com/apps/soundcraft"
+      },
+      {
+        "name": "Materialcraft",
+        "desc":"Substance Designer",
+        "link":"https://getartcraft.com/apps/materialcraft"
+      },
+      {
+        "name":"CADcraft",
+        "desc":"Autocat",
+        "link":"https://getartcraft.com/apps/cadcraft"
+      },
+      {
+        "name":"Texturecraft",
+        "desc":"Substance 3d painter",
+        "link":"https://getartcraft.com/apps/texturecraft"
+
       }
     ]
   },
