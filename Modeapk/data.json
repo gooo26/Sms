@@ -7,107 +7,67 @@
       {
         "name": "Prmovies",
         "desc": "live chrome",
-        "link": "https://share.google/tIuPJDBD8IzxtjLsL"
+        "link": "https://prmovies.style/"
       },
       {
         "name": "moviesbazar",
         "desc": "live chrome",
-        "link": "https://share.google/O46XrDtQYyEB5pe6A"
+        "link": "https://www.moviesbazar.media/"
       },
       {
         "name": "netnaija",
         "desc": "live -",
-        "link": "https://share.google/MJGSvvFHKtYEa7XAX"
+        "link": "https://www.net9ja.tv/"
       },
       {
         "name": "Movierulz",
         "desc": "live chrome",
-        "link": "https://share.google/qA2EMSGRhfJzVb3r2"
+        "link": "https://www.5movierulz.holdings/"
       },
       {
         "name": "Hindilinks4u",
         "desc": "live chrome",
-        "link": "https://share.google/gMSmEaM3l63P3B0jg"
+        "link": "https://hindilinks4u.coupons/"
       },
       {
         "name": "Kmmovies",
         "desc": "live chrome",
-        "link": "https://share.google/JOzTLHqaiDflWKAf6"
+        "link": "https://km1.kmmovies.bond/"
       },
       {
         "name": "Movies4u",
         "desc": "live chrome",
-        "link": "https://share.google/3QbFldeecQaunCrLa"
-      },
-      {
-        "name": "Desicinemas",
-        "desc": "live chrome",
-        "link": "https://share.google/e9DBGshldfSHQVeHS"
+        "link": "https://movies4u.vet/"
       },
       {
         "name": "Bollyflix",
         "desc": "live chrome",
-        "link": "https://share.google/kxfuMhCdpDRYgiieM"
+        "link": "https://bollyflix.deal/"
       },
       {
         "name": "Moviewala",
         "desc": "live chrome",
-        "link": "https://share.google/kllasRWlkkCTThkZc"
-      },
-      {
-        "name": "Vegamovies",
-        "desc": "live chrome",
-        "link": "https://share.google/dWaJjqRpiiWVPTrwF"
+        "link": "https://moviewala.live/en"
       },
       {
         "name": "Hdhub4u",
         "desc": "live chrome",
-        "link": "https://share.google/XO2ZGL0gKP2sroB0p"
+        "link": "https://hdhub4u.kz/"
       },
       {
         "name": "Multimovies",
         "desc": "live chrome",
-        "link": "https://share.google/V1TLtZuUloAj9faF1"
-      },
-      {
-        "name": "Movies Mod",
-        "desc": "live chrome",
-        "link": "https://share.google/bthxb6qjBPDtD2Abc"
+        "link": "https://multimovies.wtf/"
       },
       {
         "name": "Worldfree4u",
         "desc": "live chrome",
-        "link": "https://share.google/cvVYxcfqZzeJcOlYQ"
-      },
-      {
-        "name": "Hindilinks4u",
-        "desc": "live -",
-        "link": "https://share.google/0HgsyB72wP3cLLyQz"
-      },
-      {
-        "name": "Thenextplanet",
-        "desc": "live chrome",
-        "link": "https://share.google/OffZqZZSDJxrDqOUI"
-      },
-      {
-        "name": "Tamilblasters",
-        "desc": "live chrome",
-        "link": "https://share.google/azDOGSM2mqYW3q6jp"
-      },
-      {
-        "name": "Fitnur",
-        "desc": "arbic",
-        "link": "https://share.google/N2oHciW2c50p1MJaY"
-      },
-      {
-        "name": "Yupflix",
-        "desc": "live chrome",
-        "link": "https://share.google/MXKWjjEgvypPPnbOh"
+        "link": "https://worldfree4u.apartments/"
       },
       {
         "name": "Cinephile",
         "desc": "live chrome",
-        "link": "https://share.google/Km0SLGILzOQpgSIYC"
+        "link": "https://cinephile.live/"
       }
     ]
   },
@@ -124,12 +84,12 @@
       {
         "name": "Ag48anime",
         "desc": "Trusted",
-        "link": "https://share.google/vQHAglRisQzNF5uxt"
+        "link": "https://www.ag48anime.fun/"
       },
       {
         "name": "ANIMEWORLD",
         "desc": "Trusted",
-        "link": "https://share.google/GpbNXyLLyg6QvH6c2"
+        "link": "https://watchanimeworld.one/"
       },
       {
         "name": "Animejoker",
@@ -247,11 +207,6 @@
         "link": "https://primevideo.com"
       },
       {
-        "name": "Paramount+",
-        "desc": "",
-        "link": "https://share.google/mKA6prrKu9EH1TXxe"
-      },
-      {
         "name": "Crunchyroll",
         "desc": "",
         "link": "sso.crunchyroll.com"
@@ -260,11 +215,6 @@
         "name": "MGM+",
         "desc": "",
         "link": "https://mgmplus.com"
-      },
-      {
-        "name": "peacock",
-        "desc": "",
-        "link": "https://share.google/CukOXaQYUUxcNPtyx"
       },
       {
         "name": "AMC+",
@@ -412,6 +362,11 @@
         "name": "SoundCraft",
         "desc": "digital audio workstation (DAW)",
         "link": "https://getartcraft.com/apps/soundcraft"
+      },
+      {
+        "name": "Claude",
+        "desc": "claudeCraft",
+        "link": "https://claudecraft.com/"
       }
     ]
   },
